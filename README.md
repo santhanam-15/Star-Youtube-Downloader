@@ -26,7 +26,7 @@ On first launch, the app will download required components (like ffmpeg).
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Example.png)
 
 ---
 
