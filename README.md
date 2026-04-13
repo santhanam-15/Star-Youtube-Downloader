@@ -3,6 +3,12 @@
 Download videos easily for offline use.
 
 ---
+## ⚙️ First Time Setup
+
+On first launch, the app will download required components (like ffmpeg).
+
+⏳ This may take a few seconds depending on your internet connection.
+---
 
 ## 🚀 Download
 
