@@ -5,7 +5,7 @@ Download videos easily for offline use.
 ---
 ## ⚙️ First Time Setup
 
-On first launch, the app will download required components (like ffmpeg).
+On first launch, the app will download required components (like yt-dlp).
 
 ⏳ This may take a few seconds depending on your internet connection.
 ---
