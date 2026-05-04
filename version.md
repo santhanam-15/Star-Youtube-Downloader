@@ -1,4 +1,4 @@
-[15.04.2026] 🚀 Version 1.1.2 Released!
+[04.05.2026] 🚀 Version 1.2.1 Going to Release!
 
 Bug fixes and improvements from the previous version.
 
