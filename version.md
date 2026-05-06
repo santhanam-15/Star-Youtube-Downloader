@@ -11,4 +11,4 @@
 
 
 👉 Download here:
-https://github.com/pskiskpskisk/Star-Youtube-Downloader/releases/download/v1.1.2/StarYouTubeDownloaderSetup.exe
+https://github.com/santhanam-15/Star-Youtube-Downloader/releases/download/v1.2.1/StarYouTubeDownloaderSetup.exe
